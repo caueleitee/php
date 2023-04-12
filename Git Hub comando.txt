@@ -1,0 +1,9 @@
+Precisamos criar um repositório local, adicionar um arquivo nele e atualizar esse arquivo em nosso repositório remoto. Qual série de comandos atenderia essa necessidade?
+
+git init
+git remote add origin https://endereco_do_repositorio
+git add --all
+git commit -m 'mensagem'
+git push origin master
+
+
