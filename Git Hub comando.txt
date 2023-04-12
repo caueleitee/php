@@ -7,3 +7,10 @@ git commit -m 'mensagem'
 git push origin master
 
 
+git add --all
+git commit -m 'mensagem'
+
+git pull origin master : Pega os dados do master e traz para o local
+
+git push origin master : Envia as informações do remoto para o master
+
